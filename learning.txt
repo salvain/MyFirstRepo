@@ -1,0 +1,7 @@
+So far I have learned to make:
+
+1.forking.
+2.Pull request.
+3.making SSH key and setting up into github.
+4.cloning using terminal into local machine.
+5.pushing.
