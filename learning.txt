@@ -1,4 +1,4 @@
-So far I have learned to make:
+What I have learned from this course
 
 1.forking.
 2.Pull request.
